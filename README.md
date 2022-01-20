@@ -1,2 +1,2 @@
 # Резюме
-[Duck Duck Go](https://daryamarmysh.github.io/Summary/)
+[Click me](https://daryamarmysh.github.io/Summary/)
