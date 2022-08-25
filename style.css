@@ -81,7 +81,7 @@ main {
 
 .certificate {
     margin: 8px 0;
-    background-image: url(./assets/cer.png);
+    background-image: url(assets/cer.png);
     background-size: contain;
     background-repeat: no-repeat;
     height: 150px;
